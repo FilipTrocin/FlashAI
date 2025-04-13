@@ -1,2 +1,2 @@
 # FlashAI
-Building MVP card-memo system with bolt.sh
+Building MVP card-memo system with bolt.new
